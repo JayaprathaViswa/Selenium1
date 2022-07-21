@@ -25,7 +25,8 @@ public static void main(String[] args) {
 	s.studentName();
 	s.studentId();
 	
-	s.studentName();
+	//s.studentName();
+	
 	
 	
 	
