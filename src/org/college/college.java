@@ -26,6 +26,9 @@ public static void main(String[] args) {
 	
 	s.studentId();
 	
+	//s.studentName();
+	
+	
 	
 	
 }
