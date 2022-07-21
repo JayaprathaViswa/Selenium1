@@ -23,6 +23,7 @@ public static void main(String[] args) {
 	s.studentDept();
 	s.studentId();
 	s.studentName();
+	
 	s.studentId();
 	
 	
